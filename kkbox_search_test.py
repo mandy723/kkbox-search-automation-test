@@ -11,8 +11,8 @@ class KKBOXTestCase(unittest.TestCase):
         self.driver = webdriver.Chrome()
         self.driver.get("https://play.kkbox.com")
         # login
-        self.driver.find_element_by_id("uid").send_keys("x@kkbox.com")
-        self.driver.find_element_by_id("pwd").send_keys("x")
+        self.driver.find_element_by_id("uid").send_keys("xxxxxx@kkbox.com")
+        self.driver.find_element_by_id("pwd").send_keys("xxxxxx")
         self.driver.find_element_by_id("login-btn").send_keys(Keys.ENTER)
         time.sleep(2)
     #測試後環境的還原
