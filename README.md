@@ -5,3 +5,5 @@
 - 搜尋 藝人
 - 搜尋 歌曲
 - 搜尋 歌單
+
+Other detail: Ref. [PPT](https://docs.google.com/presentation/d/1AsY888m5KuI1E0D0l7jukrg1Qh7u2bVPnFr-kRBLZCM/edit?usp=sharing)
